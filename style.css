@@ -1,0 +1,33 @@
+
+.App{
+    background-image: Linear-gradient(rgb(71, 136, 158),rgb(184, 88, 104),rgb(212, 212, 118));
+    height: 100vh;
+}
+.text1{
+    text-shadow: 3px 3px 3px aquamarine;
+    
+}
+.btn1{
+    height: 50px;
+    width: 300px;
+    border-radius: 50px;
+    background-color: rgb(210, 238, 144);
+    position: relative;
+    top: 100px;
+    left: -50px;
+    cursor: pointer;
+    
+}
+h1{
+    color: rgb(27, 10, 44);
+}
+.btn2{
+    height: 50px;
+    width: 300px;
+    border-radius: 50px;
+    background-color: rgb(210, 238, 144);
+    position: relative;
+    top: 100px;
+    left: 50px;
+    cursor: pointer;
+}
